@@ -764,7 +764,7 @@
       <workItem from="1630755651363" duration="15382000" />
       <workItem from="1631351985053" duration="676000" />
       <workItem from="1631352721346" duration="827000" />
-      <workItem from="1631353796247" duration="1856000" />
+      <workItem from="1631353796247" duration="2088000" />
     </task>
     <task id="LOCAL-00001" summary="crm">
       <created>1631354967212</created>
@@ -809,11 +809,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="103376000" />
+    <option name="totallyTimeSpent" value="103608000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="51" y="0" width="1856" height="1087" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20768374" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
